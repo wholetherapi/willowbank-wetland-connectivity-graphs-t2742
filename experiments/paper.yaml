@@ -1,0 +1,3 @@
+project: wetland-connectivity-graphs
+folds: experiments/folds.yaml
+output: results/paper
